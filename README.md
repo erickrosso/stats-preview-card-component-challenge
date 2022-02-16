@@ -2,7 +2,7 @@
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Welcome! 👋 ----- https://erickrosso.github.io/stats-preview-card-component-challenge/ -----
 
 Thanks for checking out this front-end coding challenge.
 
